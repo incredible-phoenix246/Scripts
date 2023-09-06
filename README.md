@@ -11,5 +11,9 @@ the Push.sh
     Usage: ./push.sh "commit message"
 
 the Timezone,py 
-    this changes timezone for a given timezone to another
+    this changes timezone for a given timezone to anothera
+
+
+the timeupdate 
+    this is just an update for the timzonescript
     
